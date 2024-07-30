@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Maurya</h1>
 <h3 align="center">A passionate MERN Stack Developer and Blockchain and Machine Learning Enthusiast dedicated to continuous learning and skill acquisition.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish48maurya&label=Profile%20views&color=0e75b6&style=flat" alt="ashish48maurya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-50&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-50" /> </p>
 
 - 🌱 I’m currently learning **I'm currently focusing on Next.js and the integration of AI in MERN stack projects. This allows me to stay at the cutting edge of web development and explore new possibilities in creating intelligent, data-driven applications.**
 
@@ -18,14 +18,14 @@
 
 <div style="display: flex; justify-content: center; margin: auto;">
   <span style="padding:10px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish48maurya&show_icons=true&locale=en&layout=compact" alt="ashish48maurya" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-50&show_icons=true&locale=en&layout=compact" alt="vishal-50" />
   </span>
   <span style="margin-left: 20px; padding:10px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish48maurya&show_icons=true&locale=en" alt="ashish48maurya" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-50&show_icons=true&locale=en" alt="vishal-50" />
   </span>
 </div>
 
 
-<p style="margin:auto"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish48maurya&" alt="ashish48maurya" /></p>
+<p style="margin:auto"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-50&" alt="vishal-50" /></p>
 
-![snake animation](https://github.com/Ashish48Maurya/Ashish48Maurya/blob/output/snake.svg)
+![snake animation](https://github.com/vishal-50/vishal-50/blob/output/snake.svg)
