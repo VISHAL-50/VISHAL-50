@@ -29,4 +29,4 @@
 
 <p style="margin:auto"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-50&" alt="vishal-50" /></p>
 
-![snake animation](https://github.com/vishal-50/vishal-50/blob/output/snake.svg)
+
