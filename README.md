@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashish Maurya</h1>
+<h1 align="center">Hi 👋, I'm Vishal kushwaha</h1>
 <h3 align="center">A passionate MERN Stack Developer and Blockchain and Machine Learning Enthusiast dedicated to continuous learning and skill acquisition.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-50&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-50" /> </p>
@@ -7,9 +7,10 @@
 
 - 🚀 My Journey **I have a strong foundation in C++ Data Structures and Algorithms, which has significantly sharpened my problem-solving abilities. My journey into full-stack development has allowed me to blend this algorithmic precision with creative design principles to build impactful and user-friendly applications.**
 
-- 📫 How to reach me **maurya.48.ashish@gmail.com**
+- 📫 How to reach me **vk649990@gmail.com**
 
-- 📄 My Resume [Resume.pdf](https://utfs.io/f/4cd6f51b-3bcb-4a7e-8d00-6a72cf22bc45-ulrws3.pdf)
+- 📄 My Resume https://github.com/user-attachments/files/16425398/vishal.kushwaha.pdf
+
 
 - 🌱 Always Learning **I'm a dedicated learner, always eager to acquire new programming skills and stay updated with the latest industry trends. My current focus is on deepening my understanding of blockchain technology and exploring its potential applications in various domains.**
 
