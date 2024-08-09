@@ -1,5 +1,6 @@
 # Hi there! I'm Vishal Kushwaha 👋
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=vishal-50.vishal-50)
+![Profile Views](https://komarev.com/ghpvc/?username=vishal-50&color=blue&style=flat-square)
+
 
 I'm a passionate **Computer Science Graduate** with a BSc from Mumbai University, boasting an impressive **8.5 CGPA**. With a strong foundation in programming and a keen interest in web development, I love creating innovative solutions that blend functionality with sleek design.
 
