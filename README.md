@@ -4,6 +4,9 @@
 
 I'm a passionate **Computer Science Graduate** with a BSc from Mumbai University, boasting an impressive **8.5 CGPA**. With a strong foundation in programming and a keen interest in web development, I love creating innovative solutions that blend functionality with sleek design.
 
+## ✨ Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 🚀 Skills & Technologies
 
 ### **Frontend**
@@ -45,6 +48,10 @@ I'm a passionate **Computer Science Graduate** with a BSc from Mumbai University
 ![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal-50&show_icons=true&theme=radical)
 ![Vishal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal-50&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-50&layout=compact&theme=radical)
+
+
+## ⚡ Recent GitHub Activity
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vishal-50&theme=react-dark)
 
 ## 💬 Let's Connect
 - **Email:** vk649990@gmail.com
