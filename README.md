@@ -52,6 +52,9 @@ I'm a passionate **Computer Science Graduate** with a BSc from Mumbai University
 
 ## ⚡ Recent GitHub Activity
 ![Vishal's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vishal-50&theme=react-dark)
+## ⚡ Recent GitHub Activity
+![Vishal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-50&bg_color=1a1b27&color=ffffff&line=38bdae&point=ffffff&area=true&hide_border=true)
+
 
 
 ## 💬 Let's Connect
