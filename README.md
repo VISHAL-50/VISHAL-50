@@ -1,4 +1,5 @@
-![Vishal Kushwaha](https://github.com/VISHAL-50/VISHAL-50/blob/a4af49a6edfb05509b2ca0c1c9a0a71fe12ce5d6/name-gradient.svg)
+![Vishal Kushwaha](https://raw.githubusercontent.com/VISHAL-50/VISHAL-50/a4af49a6edfb05509b2ca0c1c9a0a71fe12ce5d6/name-gradient.svg)
+
 
 
 
