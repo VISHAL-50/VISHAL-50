@@ -1,4 +1,18 @@
-<h2 align="center"> 👋 Hi, I'm Vishal! </h2>
+<svg width="100%" height="100%" viewBox="0 0 600 200">
+  <text x="50%" y="50%" dy=".35em" fill="none" stroke="#0ff" stroke-width="2" text-anchor="middle" font-family="Arial" font-size="50" letter-spacing="5" filter="url(#glow)">
+    Vishal Kushwaha
+  </text>
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+</svg>
+
 
 
 <p align="center">
