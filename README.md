@@ -1,4 +1,6 @@
-<img src="data:image/svg+xml;base64,PASTE-YOUR-BASE64-STRING-HERE" alt="Vishal Kushwaha" />
+<p align="center">
+  <strong style="font-size: 2em;">Vishal Kushwaha</strong>
+</p>
 
 
 
