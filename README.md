@@ -1,24 +1,4 @@
-<h1 class="name">Vishal Kushwaha</h1>
-
-<style>
-  .name {
-    font-family: 'Arial', sans-serif;
-    font-size: 4rem;
-    font-weight: bold;
-    background: linear-gradient(90deg, #f0f, #0ff, #00f, #ff0);
-    background-size: 400%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradient 5s infinite ease-in-out;
-    text-align: center;
-  }
-
-  @keyframes gradient {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-</style>
+![Vishal Kushwaha](https://github.com/VISHAL-50/VISHAL-50/blob/a4af49a6edfb05509b2ca0c1c9a0a71fe12ce5d6/name-gradient.svg)
 
 
 
