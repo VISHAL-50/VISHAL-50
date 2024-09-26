@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size: 2em;">Vishal Kushwaha</strong>
+  <strong style="font-size: 10em;">Vishal Kushwaha</strong>
 </p>
 
 
