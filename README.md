@@ -1,9 +1,4 @@
-<p align="center">
-  <strong style="font-size: 10em;">Vishal Kushwaha</strong>
-</p>
-
-
-
+# Hi there! I'm Vishal Kushwaha 👋
 
 
 <p align="center">
