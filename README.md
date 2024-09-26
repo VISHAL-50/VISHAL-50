@@ -1,17 +1,24 @@
-<svg width="100%" height="100%" viewBox="0 0 600 200">
-  <text x="50%" y="50%" dy=".35em" fill="none" stroke="#0ff" stroke-width="2" text-anchor="middle" font-family="Arial" font-size="50" letter-spacing="5" filter="url(#glow)">
-    Vishal Kushwaha
-  </text>
-  <defs>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-</svg>
+<h1 class="name">Vishal Kushwaha</h1>
+
+<style>
+  .name {
+    font-family: 'Arial', sans-serif;
+    font-size: 4rem;
+    font-weight: bold;
+    background: linear-gradient(90deg, #f0f, #0ff, #00f, #ff0);
+    background-size: 400%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradient 5s infinite ease-in-out;
+    text-align: center;
+  }
+
+  @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+</style>
 
 
 
