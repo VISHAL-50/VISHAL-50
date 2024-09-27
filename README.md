@@ -1,4 +1,6 @@
-# ------------------------------------- Hi there! I'm Vishal Kushwaha 👋------------------------------------
+# Hi there! I'm Vishal Kushwaha 👋
+
+
 <p align="center">
   <a href="https://github.com/vishal-50">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate+%7C+8.7+CGPA;Full+Stack+Web+Developer;Innovative+Problem+Solver;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
@@ -12,43 +14,31 @@
 <h2 align="center">🚀 Tech Cosmos</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>Frontend</strong></td>
-      <td align="center"><strong>Backend</strong></td>
-      <td align="center"><strong>Databases</strong></td>
-      <td align="center"><strong>DevOps</strong></td>
-      <td align="center"><strong>Other</strong></td>
-      <td align="center"><strong>Hosting</strong></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      </td>
-      <td align="center">
-        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-      </td>
-      <td align="center">
-        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-      </td>
-      <td align="center">
-        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-      </td>
-      <td align="center">
-        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-      </td>
-      <td align="center">
-        <img width="30" src="https://www.vectorlogo.zone/logos/hostinger/hostinger-icon.svg" />
-        <img width="30" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
-      </td>
-    </tr>
-  </table>
+  
+```mermaid
+mindmap
+  root((Vishal))
+    Frontend
+      HTML5
+      CSS3
+      JavaScript
+      React
+    Backend
+      Node.js
+      PHP
+    Databases
+      MySQL
+      MongoDB
+    DevOps
+      Docker
+    Other
+      Python
+      Java
+    Hosting
+      Hostinger
+      Netlify
+```
+
 </div>
 
 <h2 align="center">📊 GitHub Metrics</h2>
@@ -70,7 +60,7 @@
   <a href="mailto:vk649990@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/vishal-kushwaha-1bab73235">
+  <a href="https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/vishal-kushwaha-1bab73235">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/vishal-50">
