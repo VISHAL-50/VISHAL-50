@@ -19,24 +19,24 @@
 mindmap
   root((Vishal))
     Frontend
-      HTML5
-      CSS3
-      JavaScript
-      React
+      HTML5[<img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />]
+      CSS3[<img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />]
+      JavaScript[<img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />]
+      React[<img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />]
     Backend
-      Node.js
-      PHP
+      Node.js[<img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />]
+      PHP[<img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />]
     Databases
-      MySQL
-      MongoDB
+      MySQL[<img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />]
+      MongoDB[<img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />]
     DevOps
-      Docker
+      Docker[<img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />]
     Other
-      Python
-      Java
+      Python[<img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />]
+      Java[<img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />]
     Hosting
-      Hostinger
-      Netlify
+      Hostinger[<img width="20" src="https://www.vectorlogo.zone/logos/hostinger/hostinger-icon.svg" />]
+      Netlify[<img width="20" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />]
 ```
 
 </div>
