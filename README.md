@@ -13,31 +13,43 @@
 <h2 align="center">🚀 Tech Cosmos</h2>
 
 <div align="center">
-
-```mermaid
-mindmap
-  root((Vishal))
-    Frontend
-      HTML5[<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />]
-      CSS3[<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />]
-      JavaScript[<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />]
-      React[<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />]
-    Backend
-      Node.js[<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />]
-      PHP[<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />]
-    Databases
-      MySQL[<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />]
-      MongoDB[<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />]
-    DevOps
-      Docker[<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />]
-    Other
-      Python[<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />]
-      Java[<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />]
-    Hosting
-      Hostinger[<img width="30" src="https://www.vectorlogo.zone/logos/hostinger/hostinger-icon.svg" />]
-      Netlify[<img width="30" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />]
-```
-
+  <table>
+    <tr>
+      <td align="center"><strong>Frontend</strong></td>
+      <td align="center"><strong>Backend</strong></td>
+      <td align="center"><strong>Databases</strong></td>
+      <td align="center"><strong>DevOps</strong></td>
+      <td align="center"><strong>Other</strong></td>
+      <td align="center"><strong>Hosting</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      </td>
+      <td align="center">
+        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+      </td>
+      <td align="center">
+        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+      </td>
+      <td align="center">
+        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+      </td>
+      <td align="center">
+        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+      </td>
+      <td align="center">
+        <img width="30" src="https://www.vectorlogo.zone/logos/hostinger/hostinger-icon.svg" />
+        <img width="30" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h2 align="center">📊 GitHub Metrics</h2>
