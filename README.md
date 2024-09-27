@@ -1,5 +1,4 @@
-# ------------------------------------------------------------------ Hi there! I'm Vishal Kushwaha 👋------------------------------------------------------------------ 
-
+# ------------------------------------- Hi there! I'm Vishal Kushwaha 👋------------------------------------
 <p align="center">
   <a href="https://github.com/vishal-50">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate+%7C+8.7+CGPA;Full+Stack+Web+Developer;Innovative+Problem+Solver;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
