@@ -31,6 +31,7 @@ mindmap
       MongoDB
     DevOps
       Docker
+      AWS( lambda ec2 cloudfront)
     Other
       Python
       Java
