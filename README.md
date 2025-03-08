@@ -38,6 +38,9 @@ mindmap
     Hosting
       Hostinger
       Netlify
+    Freameworks
+      Laravel
+      
 ```
 
 </div>
