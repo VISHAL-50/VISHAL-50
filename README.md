@@ -1,84 +1,68 @@
-# Hi there! I'm Vishal Kushwaha 👋
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=120&section=header"/>
 
+<h1 align="center">Hi there! 👋 I'm Vishal Kushwaha</h1>
+<h3 align="center">💻 Full Stack Developer | 🚀 Problem Solver | 🌐 Tech Explorer</h3>
 
 <p align="center">
-  <a href="https://github.com/vishal-50">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate+%7C+8.7+CGPA;Full+Stack+Web+Developer;Innovative+Problem+Solver;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+with+2%2B+Years+Experience;Passionate+about+Web+Performance+%26+Scalability;Loves+Building+Modern+%26+Efficient+Web+Apps;Always+Learning%2C+Always+Evolving" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishal-50&label=Profile%20Views&color=00C2FF&style=flat-square" alt="profile views" />
+</p>
+
+---
+
+## 🧠 About Me  
+
+🌍 Based in **India**, I’m a **Full Stack Web Developer** with **2+ years** of experience building end-to-end applications using modern stacks.  
+💼 Skilled in **React**, **Node.js**, **Laravel**, and **AWS**, with a strong understanding of scalable backend design and responsive frontends.  
+⚙️ I’m passionate about **performance optimization, clean architecture**, and **automation**.  
+🎯 My philosophy: *“If it works, make it better; if it’s better, make it scalable.”*  
+📚 When I’m not coding, I explore **UI design trends** and **open-source projects**.
+
+---
+
+## 🧰 Tech Stack & Tools
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishal-50&color=00C2FF&style=flat-square" alt="Profile Views">
+
+| **Frontend** | **Backend** | **Databases** | **DevOps / Cloud** | **Languages / Tools** |
+|:-------------:|:------------:|:--------------:|:-------------------:|:----------------------:|
+| HTML • CSS • JS • React • Next.js • Bootstrap • Tailwind | Node.js • Express • PHP • Laravel | MySQL • MongoDB | AWS (EC2, Lambda, S3, CloudFront) • Docker • GitHub Actions | Python • Java • Git • Postman • Figma • VS Code |
+
 </div>
 
-<h2 align="center">🚀 Tech Cosmos</h2>
+---
+
+## 🧩 Tech Mindmap
 
 <div align="center">
-  
+
 ```mermaid
 mindmap
   root((Vishal))
     Frontend
-      HTML5
-      CSS3
-      JavaScript
       React
+      Next.js
+      JavaScript
+      Tailwind
     Backend
       Node.js
       PHP
+      Laravel
     Databases
       MySQL
       MongoDB
     DevOps
+      AWS
       Docker
-      AWS( lambda ec2 cloudfront)
-    Other
+      GitHub Actions
+    Languages
       Python
       Java
-    Hosting
-      Hostinger
-      Netlify
-      Bluehost
-    Freameworks
-      Laravel
-      
-```
-
-</div>
-
-<h2 align="center">📊 GitHub Metrics</h2>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishal-50&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-50&theme=radical&background=0D1117&hide_border=true" />
-</div>
-
-<h2 align="center">🌟 Language Proficiency</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-50&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" />
-</div>
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<div align="center">
-  <a href="mailto:vk649990@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/vishal-kushwaha-1bab73235">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/vishal-50">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer&animation=twinkling"/>
-</div>
+    Tools
+      Figma
+      Postman
+      VS Code
