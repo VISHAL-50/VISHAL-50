@@ -15,7 +15,7 @@
 
 I'm a **Full Stack Developer** with **2 years of professional experience** crafting robust, scalable, and user-centric web applications. A Computer Science graduate with an **8.7 CGPA**, I thrive on solving complex problems and building seamless digital experiences. My journey in tech is fueled by a passion for clean code, continuous learning, and staying ahead of industry trends.
 
-- 🌍 Based in: [Your Location]
+- 🌍 Based in: Mumbai
 - 🚀 Specializing in: Modern web development, cloud-native solutions, and DevOps
 - 📚 Always learning: AI-driven development, microservices, and Web3
 - 🎯 Goal: To build impactful solutions that make a difference
@@ -39,10 +39,10 @@ I'm a **Full Stack Developer** with **2 years of professional experience** craft
 
 *Explore my work on [GitHub](https://github.com/vishal-50?tab=repositories)! Here are some highlights:*
 
-- **[Project 1](https://github.com/vishal-50/project1)**: A web application showcasing my skills in **React**, **Node.js**, and **MongoDB**.  
+- **[Project 1]([https://github.com/vishal-50/project1](https://github.com/VISHAL-50/NEWS-WEBSITE))**: A web application showcasing my skills in **React**, **Node.js**, and **MongoDB**.  
   <img src="https://img.shields.io/github/stars/vishal-50/project1?style=social" alt="GitHub Stars">
 
-- **[Project 2](https://github.com/vishal-50/project2)**: A dynamic project built with **Laravel** and **MySQL** for seamless backend functionality.  
+- **[Project 2]([https://github.com/vishal-50/project2](https://github.com/VISHAL-50/jobportal))**: A dynamic project built with **Laravel** and **MySQL** for seamless backend functionality.  
   <img src="https://img.shields.io/github/stars/vishal-50/project2?style=social" alt="GitHub Stars">
 
 ---
