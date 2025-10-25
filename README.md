@@ -16,7 +16,6 @@
 I'm a **Full Stack Developer** with **2 years of professional experience** crafting robust, scalable, and user-centric web applications. A Computer Science graduate with an **8.7 CGPA**, I thrive on solving complex problems and building seamless digital experiences. My journey in tech is fueled by a passion for clean code, continuous learning, and staying ahead of industry trends.
 
 - 🌍 Based in: [Your Location]
-- 💼 Currently working as: Full Stack Developer
 - 🚀 Specializing in: Modern web development, cloud-native solutions, and DevOps
 - 📚 Always learning: AI-driven development, microservices, and Web3
 - 🎯 Goal: To build impactful solutions that make a difference
@@ -36,36 +35,15 @@ I'm a **Full Stack Developer** with **2 years of professional experience** craft
 
 ---
 
-## 💼 Professional Experience
-
-### Full Stack Developer | [Your Company Name] | [Month, Year] - Present
-- Developed and maintained scalable web applications using **React**, **Node.js**, and **Laravel**.
-- Implemented **RESTful APIs** and integrated third-party services to enhance functionality.
-- Optimized database performance with **MySQL** and **MongoDB**, reducing query times by 30%.
-- Deployed applications on **AWS (EC2, Lambda, CloudFront)** and automated CI/CD pipelines using **GitHub Actions**.
-- Collaborated with cross-functional teams to deliver user-focused solutions under tight deadlines.
-
-### Freelance Full Stack Developer | [Month, Year] - [Month, Year]
-- Built responsive websites for clients using **Next.js**, **Tailwind CSS**, and **MongoDB**.
-- Automated infrastructure setup with **Docker** and **Terraform** for efficient deployments.
-- Integrated payment gateways and authentication systems, ensuring secure and seamless user experiences.
-
----
-
 ## 🌟 Featured Projects
 
-### [Project Name 1](https://github.com/vishal-50/project1)
-- A full-stack e-commerce platform built with **React**, **Node.js**, and **MongoDB**.
-- Features: User authentication, product filtering, and payment integration.
-- Deployed on **Vercel** with **GitHub Actions** for CI/CD.
-- <img src="https://img.shields.io/github/stars/vishal-50/project1?style=social" alt="GitHub Stars">
+*Explore my work on [GitHub](https://github.com/vishal-50?tab=repositories)! Here are some highlights:*
 
-### [Project Name 2](https://github.com/vishal-50/project2)
-- A real-time chat application using **Next.js**, **WebSocket**, and **PostgreSQL**.
-- Implemented scalable backend with **Express** and deployed on **AWS Lambda**.
-- <img src="https://img.shields.io/github/stars/vishal-50/project2?style=social" alt="GitHub Stars">
+- **[Project 1](https://github.com/vishal-50/project1)**: A web application showcasing my skills in **React**, **Node.js**, and **MongoDB**.  
+  <img src="https://img.shields.io/github/stars/vishal-50/project1?style=social" alt="GitHub Stars">
 
-*Check out more projects on my [GitHub](https://github.com/vishal-50?tab=repositories)!*
+- **[Project 2](https://github.com/vishal-50/project2)**: A dynamic project built with **Laravel** and **MySQL** for seamless backend functionality.  
+  <img src="https://img.shields.io/github/stars/vishal-50/project2?style=social" alt="GitHub Stars">
 
 ---
 
@@ -87,35 +65,33 @@ I'm a **Full Stack Developer** with **2 years of professional experience** craft
 
 ---
 
-## 🐍 Contribution Graph
+## 🤝 Connect with Me
 
 <div align="center">
-  <img src="https://github.com/vishal-50/vishal-50/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <a href="mailto:vk649990@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/vishal-kushwaha-1bab73235">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/vishal-50">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/your-username">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </div>
 
-*To enable the contribution snake, add this to your GitHub Actions workflow:*
+---
 
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: vishal-50
-          outputs: |
-            github-contribution-grid-snake.svg
-      - uses: actions/upload-artifact@v3
-        with:
-          name: snake
-          path: github-contribution-grid-snake.svg
-      - run: git add github-contribution-grid-snake.svg
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Update contribution snake
+## 🎉 Fun Fact
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Random Dev Joke" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer&animation=twinkling" alt="Footer Wave" />
+</div>
